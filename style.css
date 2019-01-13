@@ -1,0 +1,68 @@
+.img-main-block {
+    width: 100%;
+}
+
+h1,
+.first-block {
+    margin-left: 50px;
+}
+
+.title-borders{
+    border-left: 1px solid red;
+    border-right: 1px solid red;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.title-w {
+    font-weight: 300;
+}
+
+.salon-descript img {
+    float: left;
+    width: 70%;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+
+.cont-wrapp {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.first-block,
+.second-block {
+    width: 50%;
+}
+
+.second-block {
+    margin-left: 25px;
+}
+
+nav > p > span {
+    font-weight: bold;
+    color: red;
+}
+
+.articles p{
+    text-align: justify;
+    font-size: 22px;
+    padding-right: 30px;
+}
+
+footer {
+    text-align: right;
+    margin-top: 25px;
+}
+
+footer a {
+    text-decoration: none;
+    color: black;
+}
+
+footer span {
+    color: red;
+    padding-left: 30px;
+    font-weight: bold;
+}
